@@ -1,0 +1,37 @@
+_repo: Egyptian-Ideas-of-the-Future-Life_11277
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Budge, E. A. Wallis (Ernest Alfred Wallis), Sir
+    aliases:
+    - Budge, Ernest Alfred Wallis, Sir
+    - Budge, Ernest Alfred Thompson Wallis, Sir
+    birthdate: 1857
+    deathdate: 1934
+    gutenberg_agent_id: '2338'
+    url: http://www.gutenberg.org/2009/agents/2338
+    wikipedia: http://en.wikipedia.org/wiki/E._A._Wallis_Budge
+description: '"The after-life was a major component of ancient Egyptian culture, upon
+  which much of their society was centered around. Death and resurrection was considered
+  a constant cycle. This book is the first comprehensive study of ancient Egyptian
+  ceremonies. The author, Budge, was the keeper of the Egyptian and Assyrian Antiquities
+  at the British Museum and devoted his life to understanding their mysteries. This
+  book goes much further in explaining ancient Egyptian rituals, text and artifacts
+  than many newer books have done"--back cover.'
+gutenberg_bookshelf: Egypt
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Future life'
+- !lcsh 'Egypt -- Religion'
+- !lcc 'BL'
+- !lcsh 'Eschatology, Egyptian'
+- GITenberg
+title: Egyptian Ideas of the Future Life
+url: http://www.gutenberg.org/ebooks/11277
