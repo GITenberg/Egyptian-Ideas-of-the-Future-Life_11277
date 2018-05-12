@@ -1,5 +1,8 @@
 _repo: Egyptian-Ideas-of-the-Future-Life_11277
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 11277-h/images/cover.jpg
 creator:
   author:
     agent_name: Budge, E. A. Wallis (Ernest Alfred Wallis), Sir
@@ -18,6 +21,8 @@ description: '"The after-life was a major component of ancient Egyptian culture,
   at the British Museum and devoted his life to understanding their mysteries. This
   book goes much further in explaining ancient Egyptian rituals, text and artifacts
   than many newer books have done"--back cover.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11277#Egyptian-Ideas-of-the-Future-Life
 gutenberg_bookshelf: Egypt
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
